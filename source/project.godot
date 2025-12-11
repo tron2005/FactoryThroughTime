@@ -1,0 +1,3 @@
+[application]
+config/name="FactoryThroughTime"
+run/main_scene="res://scenes/Main.tscn"
